@@ -67,6 +67,21 @@ Updated Deliverables
 - The URL of the **slides for your game's presentation**.
 
 
+Presentations
+-------------
+
+### Short Presentation Structure ###
+
+
+
+### Suggested Final Presentation Structure ###
+
+
+
+### Demo Tips ###
+
+
+
 Grading Criteria (same as on platform)
 --------------------------------------
 - **Technical Requirements**: Did you deliver a project that met all the technical requirements? Given what the class has covered so far, did you build something that was reasonably complex?
