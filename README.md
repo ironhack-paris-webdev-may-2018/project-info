@@ -136,7 +136,7 @@ for finding a job after Ironhack.
 7. **Closing Slide** (1 slide): your project's name, your name & a _"Thank You"_
 8. **Total**: 7-11 slides
 
-#### Notes ####
+#### Presentation Structure Notes ####
 - **Don't** include a slide just for the technologies.
 - **Don't** include any code in your slides. Nobody will read it.
 - **Don't** include a slide for GitHub graphs.
@@ -149,6 +149,14 @@ for finding a job after Ironhack.
 
 ### Demo Tips ###
 
+1. Plan what you are going to demo and **practice it on the live site**.
+   That way you won't be surprised if something breaks on the live version.
+2. **Deploy early** so you can squash bugs.
+   There are _always_ bugs on the live site at first.
+2. Add **link to your live project** to your DEMO slide
+   so you can start it smoothly.
+3. Your app's colors and sizing **might look different on the projector**.
+   If you think it might be a problem, ask to test it beforehand.
 
 
 Grading Criteria (same as on platform)
