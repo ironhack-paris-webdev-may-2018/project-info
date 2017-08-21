@@ -8,6 +8,19 @@ For more information about making your game _juicy_,
 [see the lesson about it on the platform](http://learn.ironhack.com/#/learning_unit/808).
 
 
+Table of Contents
+-----------------
+1. [Schedule](#schedule)
+2. [Updated Technical Requirements](#updated-technical-requirements)
+3. [Updated Deliverables](#updated-deliverables)
+4. [Presentations](#presentations)
+  1. [General Information](#presentations)
+  2. [Short Presentation Structure](#short-presentation-structure)
+  3. [Suggested Final Presentation Structure](#suggested-final-presentation-structure)
+  4. [Demo Tips](#demo-tips)
+5. [Grading Criteria](#grading-criteria-same-as-on-platform)
+
+
 Schedule
 --------
 
@@ -105,12 +118,12 @@ for finding a job after Ironhack.
 
 1. **Title Slide** (1 slide): your project's name & your name
 2. **About Me** (1-2 slides):
-  - Where are you from?
-  - What are some interesting facts about you? (hobbies, travels, etc.)
+  1. Where are you from?
+  2. What are some interesting facts about you? (hobbies, travels, etc.)
 3. **Project Elevator Pitch** (1-2 slides):
-  - What is your project?
-  - How will it work?
-  - Why did you choose it?
+  1. What is your project?
+  2. How will it work?
+  3. Why did you choose it?
 4. **Closing Slide** (1 slide): your project's name, your name & a _"Thank You"_
 5. **Total**: 4-6 slides
 
@@ -119,18 +132,18 @@ for finding a job after Ironhack.
 
 1. **Title Slide** (1 slide): your project's name & your name
 2. **About Me** (1-2 slides):
-  - Where are you from?
-  - What are some interesting facts about you? (hobbies, travels, etc.)
+  1. Where are you from?
+  2. What are some interesting facts about you? (hobbies, travels, etc.)
 3. **Project Elevator Pitch** (1-2 slides):
-  - What is your project?
-  - How does it work?
-  - Why did you choose it?
+  1. What is your project?
+  2. How does it work?
+  3. Why did you choose it?
 4. **Technical Challenge** (1-2 slides):
-  - What was **the most important** technical challenge you faced?
-  - How did you overcome that challenge?
+  1. What was **the most important** technical challenge you faced?
+  2. How did you overcome that challenge?
 5. **Big Mistake** (1-2 slides):
-  - What was **the biggest** mistake you made during this project?
-  - What did you learn from it?
+  1. What was **the biggest** mistake you made during this project?
+  2. What did you learn from it?
 6. **Demo Slide** (1 slide): literally says "DEMO"
    with **a link** to your project so you can open it easily
 7. **Closing Slide** (1 slide): your project's name, your name & a _"Thank You"_
