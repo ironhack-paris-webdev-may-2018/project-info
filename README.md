@@ -14,10 +14,10 @@ Table of Contents
 2. [Updated Technical Requirements](#updated-technical-requirements)
 3. [Updated Deliverables](#updated-deliverables)
 4. [Presentations](#presentations)
-  1. [General Information](#presentations)
-  2. [Short Presentation Structure](#short-presentation-structure)
-  3. [Suggested Final Presentation Structure](#suggested-final-presentation-structure)
-  4. [Demo Tips](#demo-tips)
+    * [General Information](#presentations)
+    * [Short Presentation Structure](#short-presentation-structure)
+    * [Suggested Final Presentation Structure](#suggested-final-presentation-structure)
+    * [Demo Tips](#demo-tips)
 5. [Grading Criteria](#grading-criteria-same-as-on-platform)
 
 
@@ -118,12 +118,12 @@ for finding a job after Ironhack.
 
 1. **Title Slide** (1 slide): your project's name & your name
 2. **About Me** (1-2 slides):
-  1. Where are you from?
-  2. What are some interesting facts about you? (hobbies, travels, etc.)
+    * Where are you from?
+    * What are some interesting facts about you? (hobbies, travels, etc.)
 3. **Project Elevator Pitch** (1-2 slides):
-  1. What is your project?
-  2. How will it work?
-  3. Why did you choose it?
+    * What is your project?
+    * How will it work?
+    * Why did you choose it?
 4. **Closing Slide** (1 slide): your project's name, your name & a _"Thank You"_
 5. **Total**: 4-6 slides
 
@@ -132,18 +132,18 @@ for finding a job after Ironhack.
 
 1. **Title Slide** (1 slide): your project's name & your name
 2. **About Me** (1-2 slides):
-  1. Where are you from?
-  2. What are some interesting facts about you? (hobbies, travels, etc.)
+    * Where are you from?
+    * What are some interesting facts about you? (hobbies, travels, etc.)
 3. **Project Elevator Pitch** (1-2 slides):
-  1. What is your project?
-  2. How does it work?
-  3. Why did you choose it?
+    * What is your project?
+    * How does it work?
+    * Why did you choose it?
 4. **Technical Challenge** (1-2 slides):
-  1. What was **the most important** technical challenge you faced?
-  2. How did you overcome that challenge?
+    * What was **the most important** technical challenge you faced?
+    * How did you overcome that challenge?
 5. **Big Mistake** (1-2 slides):
-  1. What was **the biggest** mistake you made during this project?
-  2. What did you learn from it?
+    * What was **the biggest** mistake you made during this project?
+    * What did you learn from it?
 6. **Demo Slide** (1 slide): literally says "DEMO"
    with **a link** to your project so you can open it easily
 7. **Closing Slide** (1 slide): your project's name, your name & a _"Thank You"_
@@ -166,9 +166,9 @@ for finding a job after Ironhack.
    That way you won't be surprised if something breaks on the live version.
 2. **Deploy early** so you can squash bugs.
    There are _always_ bugs on the live site at first.
-2. Add **link to your live project** to your DEMO slide
+3. Add **link to your live project** to your DEMO slide
    so you can start it smoothly.
-3. Your app's colors and sizing **might look different on the projector**.
+4. Your app's colors and sizing **might look different on the projector**.
    If you think it might be a problem, ask to test it beforehand.
 
 
