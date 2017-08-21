@@ -112,10 +112,39 @@ for finding a job after Ironhack.
   - How will it work?
   - Why did you choose it?
 4. **Closing Slide** (1 slide): your project's name, your name & a _"Thank You"_
+5. **Total**: 4-6 slides
 
 
 ### Suggested Final Presentation Structure ###
 
+1. **Title Slide** (1 slide): your project's name & your name
+2. **About Me** (1-2 slides):
+  - Where are you from?
+  - What are some interesting facts about you? (hobbies, travels, etc.)
+3. **Project Elevator Pitch** (1-2 slides):
+  - What is your project?
+  - How does it work?
+  - Why did you choose it?
+4. **Technical Challenge** (1-2 slides):
+  - What was **the most important** technical challenge you faced?
+  - How did you overcome that challenge?
+5. **Big Mistake** (1-2 slides):
+  - What was **the biggest** mistake you made during this project?
+  - What did you learn from it?
+6. **Demo Slide** (1 slide): literally says "DEMO"
+   with **a link** to your project so you can open it easily
+7. **Closing Slide** (1 slide): your project's name, your name & a _"Thank You"_
+8. **Total**: 7-11 slides
+
+#### Notes ####
+- **Don't** include a slide just for the technologies.
+- **Don't** include any code in your slides. Nobody will read it.
+- **Don't** include a slide for GitHub graphs.
+- **Don't** go into detail about how the app works.
+  Your demo is where you want to do that.
+- If you think that deviating from the structure improves your presentation,
+  feel free to do so.
+  This suggested structure is mostly for people who don't know what to do.
 
 
 ### Demo Tips ###
