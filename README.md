@@ -65,11 +65,41 @@ Updated Deliverables
 - The URL of the **GitHub repository** for your game.
 - The URL of the **live game on the Internet**.
 - The URL of the **slides for your game's presentation**.
-- You must present your game on the last day of project time.
+- You must present your game during Project #1 final presentations
+  (last day of Project #1 time).
 
 
 Presentations
 -------------
+
+For each of the 3 projects you make at Ironhack,
+you will also have to make a presentation about it.
+Communication (including public speaking) is an important skill to practice
+for finding a job after Ironhack.
+
+### Format ###
+- Talking with Slides: **3 minutes**
+- Demo: **2 minutes**
+- Total: **5 minutes**
+
+### Attire ###
+- Dress nicely for this and all final project presentations
+  (last day of each project's time).
+- Dress at least **one degree more elegantly** than you usually dress for class.
+- _Examples_:
+  * If you wear t-shirts every day, wear a button-down shirt.
+  * If you wear jeans every day, wear some slacks.
+  * If you wear sneakers every day, wear nicer shoes.
+
+### Slide Applications ###
+- All presentations will be done **from a staff member's computer**,
+  so **your slides need to be online**.
+- PowerPoint files, Keynote files or files of any kind **will not be accepted**.
+- Suggested online slide applications:
+  * [Slides](https://slides.com/)
+  * [Prezi](https://prezi.com/)
+  * [Google Slides](https://www.google.com/slides/about/)
+
 
 ### Short Presentation Structure ###
 
