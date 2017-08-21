@@ -103,6 +103,15 @@ for finding a job after Ironhack.
 
 ### Short Presentation Structure ###
 
+1. **Title Slide** (1 slide): your project's name & your name
+2. **About Me** (1-2 slides):
+  - Where are you from?
+  - What are some interesting facts about you? (hobbies, travels, etc.)
+3. **Project Elevator Pitch** (1-2 slides):
+  - What is your project?
+  - How will it work?
+  - Why did you choose it?
+4. **Closing Slide** (1 slide): your project's name, your name & a _"Thank You"_
 
 
 ### Suggested Final Presentation Structure ###
