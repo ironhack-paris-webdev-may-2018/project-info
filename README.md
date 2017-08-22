@@ -25,7 +25,7 @@ Schedule
 --------
 
 ### Tuesday - August 22nd ###
-- **5:00 p.m.** - _Presentation Rehearsal #1_: About You & Your Project <br>
+- **4:00 p.m.** - _Presentation Rehearsal #1_: About You & Your Project <br>
   For your first presentation rehearsal
   you should create your initial presentation
   as a short, 1-2 minute set of slides.
@@ -33,14 +33,14 @@ Schedule
   [See Presentation Section](#presentations)
 
 ### Wednesday - August 23rd ###
-- **5:00 p.m.** - _Presentation Rehearsal #2_: Slides With Structure <br>
+- **4:00 p.m.** - _Presentation Rehearsal #2_: Slides With Structure <br>
   For the second presentation rehearsal
   you should change your short presentation into its final, 3 minute form.
   Your slides will have more structure and more content. <br>
   [See Suggested Final Presentation Structure](#suggested-final-presentation-structure)
 
 ### Thursday - August 24th ###
-- **5:00 p.m.** - _Presentation Rehearsal #3_: Demo <br>
+- **4:00 p.m.** - _Presentation Rehearsal #3_: Demo <br>
   For the third presentation rehearsal
   you should incorporate a demo of your live game at the end of your talk.
   Your presentation structure should be more or less the same,
