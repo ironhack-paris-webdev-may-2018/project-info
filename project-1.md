@@ -1,12 +1,11 @@
-Project #2: Full-stack Web Application
-======================================
+Project #1: The Game
+====================
 
-Now that you are more familiar with the backend,
-you can make a complete Web application for your 2nd project.
+Let's start with something fun for your first project - **a game!**
 
-Like your game projects, **this project is to be done individually**.
-
-Looking for Project #1? See the [Project #1 document](project-1.md).
+It's important to make your game exciting and _juicy_!
+For more information about making your game _juicy_,
+[see the lesson about it on the platform](http://learn.ironhack.com/#/learning_unit/808).
 
 
 Table of Contents
@@ -25,32 +24,32 @@ Table of Contents
 Schedule
 --------
 
-### Monday - September 18th ###
-- **5:00 p.m.** - _Presentation Rehearsal #1_: About Your Project <br>
+### Tuesday - August 22nd ###
+- **4:00 p.m.** - _Presentation Rehearsal #1_: About You & Your Project <br>
   For your first presentation rehearsal
   you should create your initial presentation
   as a short, 1-2 minute set of slides.
-  Your slides only need to talk about **your project idea**. <br>
+  Your slides only need to talk about you and your project idea. <br>
   [See Presentation Section](#presentations)
 
-### Tuesday - September 19th ###
-- **5:00 p.m.** - _Presentation Rehearsal #2_: Slides With Structure <br>
+### Wednesday - August 23rd ###
+- **4:00 p.m.** - _Presentation Rehearsal #2_: Slides With Structure <br>
   For the second presentation rehearsal
   you should change your short presentation into its final, 3 minute form.
   Your slides will have more structure and more content. <br>
   [See Final Presentation Structure](#final-presentation-structure)
 
-### Wednesday - September 20th ###
-- **5:00 p.m.** - _Presentation Rehearsal #3_: Demo <br>
+### Thursday - August 24th ###
+- **4:00 p.m.** - _Presentation Rehearsal #3_: Demo <br>
   For the third presentation rehearsal
-  you should incorporate a demo of your live application at the end of your talk.
+  you should incorporate a demo of your live game at the end of your talk.
   Your presentation structure should be more or less the same,
   but you should make adjustments based on feedback from the previous day. <br>
   [See Demo Tips](#demo-tips)
 
-### Thursday - September 21st ###
-- **5:00 p.m.** - **Project #2 Presentations** <br>
-  Finally, on Thursday it's time for your final presentation.
+### Friday - August 25th ###
+- **5:00 p.m.** - **Project #1 Presentations** <br>
+  Finally, on Friday it's time for your final presentation.
   You will present your projects to the staff and other students.
   Remember to dress at least one degree nicer than normal.
 
@@ -60,49 +59,36 @@ Updated Technical Requirements
 
 You app must:
 
-1. **Use Express** as a foundation.
-2. **Use Mongoose** for models and database communication.
-3. **Have 3 models _or more_**.
-   Having one for users is a no-brainer.
-   The other two should represent the main functionality of your app.
-   Don't force it if having a 3rd model doesn't make sense.
-4. **Have validation on its models** with feedback for users
-   if their submission is invalid.
-5. **Include sign up, log in & log out functionality**
-   with encrypted passwords (or social logins)
-   and authorization (logged in users can do extra things).
-6. **Have routes for all of CRUD** for models other than users.
-   There should create, read, update and delete features
-   even if they aren't all for the same model.
-7. **Have a repo on GitHub**.
-8. Have at least **1 commit per day** that you worked on it.
-9. **Be deployed online** using Heroku, so anybody could use your app.
-
-Responsive design **is not a requirement**. <br>
-Wireframes **are not a requirement**.
+1. **Render a game in the browser**.
+2. **Have logic for winning and/or losing**
+   and show feedback to the player in either case.
+3. Include **separate HTML / CSS / JavaScript**.
+4. Use **plain JavaScript or jQuery** for DOM manipulation
+   (or HTML canvas for graphics).
+5. **Have a repo on GitHub**.
+6. Have at least **1 commit per day** that you worked on it.
+7. **Be deployed online** using GitHub Pages, so anybody can play it.
 
 
 Updated Deliverables
 --------------------
 
-- A **working full-stack application, built by you** that runs on a server.
-- A **deploy of your app** on Heroku.
-- The URL of the **GitHub repository** for your app.
-- The URL of the **live app on the Internet**.
-- The URL of the **slides for your app's presentation**.
-- You must present your app during Project #2 final presentations
-  (last day of Project #2 time).
-
-Wireframes **are not a deliverable**. <br>
-User stories **are not a deliverable**.
+- A **working game, built by you** that runs in the browser.
+- A **deploy of your game** in GitHub Pages.
+- The URL of the **GitHub repository** for your game.
+- The URL of the **live game on the Internet**.
+- The URL of the **slides for your game's presentation**.
+- You must present your game during Project #1 final presentations
+  (last day of Project #1 time).
 
 
 Presentations
 -------------
 
-Project #2's presentation will focus mostly on your project.
-You **won't** have to talk much about yourself or your background.
-You should still **introduce yourself briefly**.
+For each of the 3 projects you make at Ironhack,
+you will also have to make a presentation about it.
+Communication (including public speaking) is an important skill to practice
+for finding a job after Ironhack.
 
 ### Format ###
 - Talking with Slides: **3 minutes**
@@ -131,31 +117,37 @@ You should still **introduce yourself briefly**.
 ### Short Presentation Structure ###
 
 1. **Title Slide** (1 slide): your project's name & your name
-2. **Project Elevator Pitch** (1-2 slides):
+2. **About Me** (1-2 slides):
+    * Where are you from?
+    * What are some interesting facts about you? (hobbies, travels, etc.)
+3. **Project Elevator Pitch** (1-2 slides):
     * What is your project?
     * How will it work?
     * Why did you choose it?
-3. **Closing Slide** (1 slide): your project's name, your name & a _"Thank You"_
-4. **Total**: 3-4 slides
+4. **Closing Slide** (1 slide): your project's name, your name & a _"Thank You"_
+5. **Total**: 4-6 slides
 
 
 ### Final Presentation Structure ###
 
 1. **Title Slide** (1 slide): your project's name & your name
-2. **Project Elevator Pitch** (1-2 slides):
+2. **About Me** (1-2 slides):
+    * Where are you from?
+    * What are some interesting facts about you? (hobbies, travels, etc.)
+3. **Project Elevator Pitch** (1-2 slides):
     * What is your project?
     * How does it work?
     * Why did you choose it?
-3. **Technical Challenge** (1-2 slides):
+4. **Technical Challenge** (1-2 slides):
     * What was **the most important** technical challenge you faced?
     * How did you overcome that challenge?
-4. **Big Mistake** (1-2 slides):
+5. **Big Mistake** (1-2 slides):
     * What was **the biggest** mistake you made during this project?
     * What did you learn from it?
-5. **Demo Slide** (1 slide): literally says "DEMO"
+6. **Demo Slide** (1 slide): literally says "DEMO"
    with **a link** to your project so you can open it easily
-6. **Closing Slide** (1 slide): your project's name, your name & a _"Thank You"_
-7. **Total**: 6-9 slides
+7. **Closing Slide** (1 slide): your project's name, your name & a _"Thank You"_
+8. **Total**: 7-11 slides
 
 #### Presentation Structure Notes ####
 - **Don't** include a slide just for the technologies.
