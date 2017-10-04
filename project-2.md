@@ -56,7 +56,7 @@ Schedule
 
 
 Updated Technical Requirements
--------------------------------
+------------------------------
 
 You app must:
 
