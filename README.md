@@ -22,6 +22,38 @@ Table of Contents
 4. [Grading Criteria](#grading-criteria-same-as-on-platform)
 
 
+Schedule
+--------
+
+### Tuesday - October 10th ###
+- **3:00 p.m.** - _Presentation Rehearsal #1_: About You & Your Project <br>
+  For your first presentation rehearsal
+  you should create your initial presentation
+  as a short, 1-2 minute set of slides.
+  Your slides only need to talk about **you and your project idea**.
+
+### Wednesday - October 11th ###
+- **3:00 p.m.** - _Presentation Rehearsal #2_: Slides With Structure <br>
+  For the second presentation rehearsal
+  you should change your short presentation into its final, 3 minute form.
+  Your slides will have more structure and more content.
+
+### Thursday - October 12th ###
+- **3:00 p.m.** - _Presentation Rehearsal #3_: Demo <br>
+  For the third presentation rehearsal
+  you should incorporate a demo of your live application at the end of your talk.
+  Your presentation structure should be more or less the same,
+  but you should make adjustments based on feedback from the previous day.
+
+### Friday - October 13th ###
+- **2:00 p.m.** - **Hackshow: Project #3 Presentations** <br>
+  Finally, on Friday it's time for your **last Ironhack project presentation**.
+  You will present your projects to senior dev judges, staff and other students.
+  Remember to dress at least one degree nicer than normal.
+
+After the presentations, we will have **Graduation** and **Happy Hour**!
+
+
 Updated Technical Requirements
 ------------------------------
 
