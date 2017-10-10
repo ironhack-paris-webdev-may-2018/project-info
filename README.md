@@ -14,6 +14,14 @@ Like the other projects, **this project is to be done individually**.
 Looking for Project #1 or #2? See the [Project #1 document](project-1.md) or the [Project #2 document](project-2.md).
 
 
+Table of Contents
+-----------------
+1. [Schedule](#schedule)
+2. [Updated Technical Requirements](#updated-technical-requirements)
+3. [Updated Deliverables](#updated-deliverables)
+4. [Grading Criteria](#grading-criteria-same-as-on-platform)
+
+
 Updated Technical Requirements
 ------------------------------
 
@@ -36,7 +44,7 @@ You app must:
    One for your Angular application and the other for your Express API backend.
 8. Have at least **1 commit per day** that you worked on it.
 9. **Be deployed online** using Heroku, so anybody could use your app.
-10. **Connect your free .co domain** to your application.
+10. **Be connected to your free .co domain**.
     Ironhack will send you an email with your promo code
     and instructions on how to redeem it for your free .co domain.
 
@@ -61,3 +69,22 @@ Updated Deliverables
 
 Wireframes **are not a deliverable**. <br>
 User stories **are not a deliverable**.
+
+
+Grading Criteria (same as on platform)
+--------------------------------------
+- **Technical Requirements**: Did you deliver a project that met all the technical requirements? Given what the class has covered so far, did you build something that was reasonably complex?
+
+- **Creativity**: Did you added a personal spin or creative element into your project submission? Did you deliver something engaging and playable to the end user?
+
+- **Code Quality**: Did you follow code style guidance and best practices covered in class, such as spacing, modularity, and semantic naming?
+
+- **Deployment**: Did you deploy your application to a public URL using GitHub Pages?
+
+- **Total**: Your instructors will give you a total score on your project between:
+
+Score | Expectations
+----- | ------------
+**0** | Does not meet expectations.
+**1** | Meets expectations. Good job!
+**2** | Exceeds expectations, you wonderful creature, you!
