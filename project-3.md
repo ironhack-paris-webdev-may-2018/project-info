@@ -1,11 +1,17 @@
-Project #1: The Game
-====================
+Project #3: MEAN Web Application
+================================
 
-Let's start with something fun for your first project - **a game!**
+We're almost at the end of the journey.
+In our time together,
+we've looked at tons of different programming concepts and techniques.
+This is where you get to show it all off.
 
-It's important to make your game exciting and _juicy_!
-For more information about making your game _juicy_,
-[see the lesson about it on the platform](http://learn.ironhack.com/#/learning_unit/808).
+Your 3rd and final project
+will be a **single-page Web application** using the **MEAN stack**.
+
+Like the other projects, **this project is to be done individually**.
+
+Looking for Project #1 or #2? See the [Project #1 document](project-1.md) or the [Project #2 document](project-2.md).
 
 
 Table of Contents
@@ -24,34 +30,36 @@ Table of Contents
 Schedule
 --------
 
-### Tuesday - August 22nd ###
-- **4:00 p.m.** - _Presentation Rehearsal #1_: About You & Your Project <br>
+### Tuesday - October 10th ###
+- **3:00 p.m.** - _Presentation Rehearsal #1_: About You & Your Project <br>
   For your first presentation rehearsal
   you should create your initial presentation
   as a short, 1-2 minute set of slides.
-  Your slides only need to talk about you and your project idea. <br>
+  Your slides only need to talk about **you and your project idea**. <br>
   [See Presentation Section](#presentations)
 
-### Wednesday - August 23rd ###
-- **4:00 p.m.** - _Presentation Rehearsal #2_: Slides With Structure <br>
+### Wednesday - October 11th ###
+- **3:00 p.m.** - _Presentation Rehearsal #2_: Slides With Structure <br>
   For the second presentation rehearsal
   you should change your short presentation into its final, 3 minute form.
   Your slides will have more structure and more content. <br>
   [See Final Presentation Structure](#final-presentation-structure)
 
-### Thursday - August 24th ###
-- **4:00 p.m.** - _Presentation Rehearsal #3_: Demo <br>
+### Thursday - October 12th ###
+- **3:00 p.m.** - _Presentation Rehearsal #3_: Demo <br>
   For the third presentation rehearsal
-  you should incorporate a demo of your live game at the end of your talk.
+  you should incorporate a demo of your live application at the end of your talk.
   Your presentation structure should be more or less the same,
   but you should make adjustments based on feedback from the previous day. <br>
   [See Demo Tips](#demo-tips)
 
-### Friday - August 25th ###
-- **5:00 p.m.** - **Project #1 Presentations** <br>
-  Finally, on Friday it's time for your final presentation.
-  You will present your projects to the staff and other students.
+### Friday - October 13th ###
+- **2:00 p.m.** - **Hackshow: Project #3 Presentations** <br>
+  Finally, on Friday it's time for your **last Ironhack project presentation**.
+  You will present your projects to senior dev judges, staff and other students.
   Remember to dress at least one degree nicer than normal.
+
+After the presentations, we will have **Graduation** and **Happy Hour**!
 
 
 Updated Technical Requirements
@@ -59,36 +67,54 @@ Updated Technical Requirements
 
 You app must:
 
-1. **Render a game in the browser**.
-2. **Have logic for winning and/or losing**
-   and show feedback to the player in either case.
-3. Include **separate HTML / CSS / JavaScript**.
-4. Use **plain JavaScript or jQuery** for DOM manipulation
-   (or HTML canvas for graphics).
-5. **Have a repo on GitHub**.
-6. Have at least **1 commit per day** that you worked on it.
-7. **Be deployed online** using GitHub Pages, so anybody can play it.
+1. **Use Angular** for all of the user-facing parts of your application.
+2. **Use Express** for your **API backend**
+   that your Angular app will communicate with.
+3. **Use Mongoose** for models and database communication.
+4. **Have 3 models _or more_**.
+   Having one for users is a no-brainer.
+   The other two should represent the main functionality of your app.
+   Don't force it if having a 3rd model doesn't make sense.
+5. **Have validation on its models** with feedback for users
+   if their submission is invalid.
+6. **Include sign up, log in & log out functionality**
+   with encrypted passwords (or social logins)
+   and authorization (logged in users can do extra things).
+7. **Have _two_ repos on GitHub**.
+   One for your Angular application and the other for your Express API backend.
+8. Have at least **1 commit per day** that you worked on it.
+9. **Be deployed online** using Heroku, so anybody could use your app.
+10. **Be connected to your free .co domain**.
+    Ironhack will send you an email with your promo code
+    and instructions on how to redeem it for your free .co domain.
+
+Responsive design **is not a requirement**. <br>
+Wireframes **are not a requirement**. <br>
+Full CRUD **is not a requirement**.
 
 
 Updated Deliverables
 --------------------
 
-- A **working game, built by you** that runs in the browser.
-- A **deploy of your game** in GitHub Pages.
-- The URL of the **GitHub repository** for your game.
-- The URL of the **live game on the Internet**.
-- The URL of the **slides for your game's presentation**.
-- You must present your game during Project #1 final presentations
-  (last day of Project #1 time).
+- A **working MEAN stack application, built by you** that runs on a server.
+- A **deploy of your app** on Heroku with a .co domain.
+- The **two URLs** of your **GitHub repositories** (Angular & Express).
+- The URL of the **live app on your .co domain**.
+- The URL of the **Heroku app**.
+- The URL of the **slides for your app's presentation**.
+- Your **GitHub repos** should have
+  the **URL of your live app** in the URL section.
+- You must present your app during Project #3 final presentations
+  (last day of Project #3 time).
+
+Wireframes **are not a deliverable**. <br>
+User stories **are not a deliverable**.
 
 
 Presentations
 -------------
 
-For each of the 3 projects you make at Ironhack,
-you will also have to make a presentation about it.
-Communication (including public speaking) is an important skill to practice
-for finding a job after Ironhack.
+Project #3's presentation will focus more on you again, since you will be presenting to judges.
 
 ### Format ###
 - Talking with Slides: **3 minutes**
