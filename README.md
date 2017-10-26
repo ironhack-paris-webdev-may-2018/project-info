@@ -24,7 +24,7 @@ Table of Contents
 Schedule
 --------
 
-### Tuesday - August 22nd ###
+### Tuesday - October 31st ###
 - **4:00 p.m.** - _Presentation Rehearsal #1_: About You & Your Project <br>
   For your first presentation rehearsal
   you should create your initial presentation
@@ -32,14 +32,14 @@ Schedule
   Your slides only need to talk about you and your project idea. <br>
   [See Presentation Section](#presentations)
 
-### Wednesday - August 23rd ###
+### Wednesday - November 1st ###
 - **4:00 p.m.** - _Presentation Rehearsal #2_: Slides With Structure <br>
   For the second presentation rehearsal
   you should change your short presentation into its final, 3 minute form.
   Your slides will have more structure and more content. <br>
   [See Final Presentation Structure](#final-presentation-structure)
 
-### Thursday - August 24th ###
+### Thursday - November 2nd ###
 - **4:00 p.m.** - _Presentation Rehearsal #3_: Demo <br>
   For the third presentation rehearsal
   you should incorporate a demo of your live game at the end of your talk.
@@ -47,7 +47,7 @@ Schedule
   but you should make adjustments based on feedback from the previous day. <br>
   [See Demo Tips](#demo-tips)
 
-### Friday - August 25th ###
+### Friday - November 3rd ###
 - **5:00 p.m.** - **Project #1 Presentations** <br>
   Finally, on Friday it's time for your final presentation.
   You will present your projects to the staff and other students.
@@ -170,7 +170,7 @@ for finding a job after Ironhack.
    so you can start it smoothly.
 4. Your app's colors and sizing **might look different on the projector**.
    If you think it might be a problem, ask to test it beforehand.
-5. If you app is on Heroku, **refresh it before you present**.
+5. If your app is on Heroku, **refresh it before you present**.
    Otherwise there will be a delay on the initial load.
 
 
