@@ -5,7 +5,7 @@ Let's start with something fun for your first project - **a game!**
 
 It's important to make your game exciting and _juicy_!
 For more information about making your game _juicy_,
-[see the lesson about it on the platform](http://learn.ironhack.com/#/learning_unit/808).
+[see the lesson about it on the platform](http://learn.ironhack.com/#/learning_unit/2162).
 
 
 Table of Contents
