@@ -4,7 +4,7 @@ Project #2: Full-stack Web Application
 Now that you are more familiar with the backend,
 you can make a complete Web application for your 2nd project.
 
-Like your game projects, **this project is to be done individually**.
+For this project, you can (optionally) **do this project in pairs**.
 
 Looking for Project #1? See the [Project #1 document](project-1.md).
 
@@ -25,7 +25,7 @@ Table of Contents
 Schedule
 --------
 
-### Monday - September 18th ###
+### Tuesday - November 21st ###
 - **5:00 p.m.** - _Presentation Rehearsal #1_: About Your Project <br>
   For your first presentation rehearsal
   you should create your initial presentation
@@ -33,14 +33,14 @@ Schedule
   Your slides only need to talk about **your project idea**. <br>
   [See Presentation Section](#presentations)
 
-### Tuesday - September 19th ###
+### Wednesday - November 22nd ###
 - **5:00 p.m.** - _Presentation Rehearsal #2_: Slides With Structure <br>
   For the second presentation rehearsal
   you should change your short presentation into its final, 3 minute form.
   Your slides will have more structure and more content. <br>
   [See Final Presentation Structure](#final-presentation-structure)
 
-### Wednesday - September 20th ###
+### Monday - November 27th ###
 - **5:00 p.m.** - _Presentation Rehearsal #3_: Demo <br>
   For the third presentation rehearsal
   you should incorporate a demo of your live application at the end of your talk.
@@ -48,7 +48,7 @@ Schedule
   but you should make adjustments based on feedback from the previous day. <br>
   [See Demo Tips](#demo-tips)
 
-### Thursday - September 21st ###
+### Tuesday - November 28th ###
 - **5:00 p.m.** - **Project #2 Presentations** <br>
   Finally, on Thursday it's time for your final presentation.
   You will present your projects to the staff and other students.
