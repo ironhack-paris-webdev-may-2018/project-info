@@ -26,7 +26,7 @@ Schedule
 ### Tuesday - April 3rd ###
 - **4:00 p.m.** - _Presentation Rehearsal #1_: About You & Your Project <br>
   For your first presentation rehearsal
-  you should create your initial presentation structure.
+  you should create your initial presentation structure. <br>
   [See Presentation Section](#presentations)
 
 ### Thursday - April 5th ###
