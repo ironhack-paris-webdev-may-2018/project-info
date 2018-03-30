@@ -13,7 +13,7 @@ Free Templates
 --------------
 - [50 Free Bootstrap Framework Templates & Themes](https://speckyboy.com/free-bootstrap-framework-templates/)
 - [BootstrapTaste](https://bootstraptaste.com/) - List of Bootstrap templates
-- [ThemHunt](https://themehunt.com/latest) - More templates
+- [ThemeHunt](https://themehunt.com/latest) - More templates
 
 
 Design Ideas
