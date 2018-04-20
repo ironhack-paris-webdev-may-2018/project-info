@@ -55,8 +55,8 @@ You app must:
 2. **Use Mongoose** for models and database communication.
 3. **Have 2 models _or more_**.
    Having one for users is a no-brainer.
-   The other two should represent the main functionality of your app.
-   Don't force it if having a 3rd model doesn't make sense.
+   The other one(s) should represent the main functionality of your app.
+   Don't force it if having more thant two models doesn't make sense.
 4. **Have validation on its models** with feedback for users
    if their submission is invalid.
 5. **Include sign up, log in & log out functionality**
