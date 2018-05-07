@@ -28,3 +28,8 @@ Color Selection
 - [Color Hunt](http://www.colorhunt.co/) - Curated color palettes
 - [BrandColors](https://brandcolors.net/) - Famous brands' color codes
 - [uiGradients](https://uigradients.com/) - Beautiful gradients
+
+
+Angular Packages
+----------------
+- [Ngx.tools](https://ngx.tools/#/search) - Search for useful Angular packages
