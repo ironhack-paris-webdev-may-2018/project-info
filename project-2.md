@@ -1,18 +1,12 @@
-Project #3: MEAN Web Application
-================================
+Project #2: Full-stack Web Application
+======================================
 
-We're almost at the end of the journey.
-In our time together,
-we've looked at tons of different programming concepts and techniques.
-This is where you get to show it all off.
+Now that you are more familiar with the backend,
+you can make a complete Web application for your 2nd project.
 
-Your 3rd and final project
-will be a **single-page Web application** using the **MEAN stack**.
+For this project, you will **do this project in pairs**.
 
-Like the other projects, **this project is to be done individually**.
-
-Looking for Project #1 or #2? See the [Project #1 document](project-1.md)
-or the [Project #2 document](project-2.md).
+Looking for Project #1? See the [Project #1 document](project-1.md).
 
 
 Table of Contents
@@ -22,8 +16,7 @@ Table of Contents
 3. [Updated Deliverables](#updated-deliverables)
 4. [Presentations](#presentations)
     * [General Information](#presentations)
-    * [Short Presentation Structure](#short-presentation-structure)
-    * [Final Presentation Structure](#final-presentation-structure)
+    * [Presentation Structure](#presentation-structure)
     * [Demo Tips](#demo-tips)
 5. [Grading Criteria](#grading-criteria-same-as-on-platform)
 
@@ -31,41 +24,26 @@ Table of Contents
 Schedule
 --------
 
-### Thursday - December 14th ###
-- **3:00 p.m.** - _Presentation Rehearsal #1_: About You & Your Project <br>
+### Tuesday - April 24th ###
+- **5:00 p.m.** - _Presentation Rehearsal #1_: About Your Project <br>
   For your first presentation rehearsal
-  you should create your initial presentation
-  as a short, 1-2 minute set of slides.
-  Your slides only need to talk about **you and your project idea**. <br>
+  you should create your initial presentation structure. <br>
+  Your slides only need to talk about **your project idea**. <br>
   [See Presentation Section](#presentations)
 
-### Friday - December 15th ###
-- **3:00 p.m.** - _Presentation Rehearsal #2_: Slides With Structure <br>
+### Thursday - April 26th ###
+- **5:00 p.m.** - _Presentation Rehearsal #2_: Demo <br>
   For the second presentation rehearsal
-  you should change your short presentation into its final, 3 minute form.
-  Your slides will have more structure and more content. <br>
-  [See Final Presentation Structure](#final-presentation-structure)
-
-### Monday - December 18th ###
-- **3:00 p.m.** - _Presentation Rehearsal #3_: Demo <br>
-  For the third presentation rehearsal
   you should incorporate a demo of your live application at the end of your talk.
   Your presentation structure should be more or less the same,
   but you should make adjustments based on feedback from the previous day. <br>
   [See Demo Tips](#demo-tips)
 
-### Tuesday - December 19th ###
-- **10:00 a.m.** - **Hackshow: WebDev Final Presentations** <br>
-  Finally, on Tuesday it's time for your **last Ironhack project presentation**.
-  You will present your projects to senior dev judges, staff and other students.
+### Friday - April 27th ###
+- **4:00 p.m.** - **Project #2 Presentations** <br>
+  Finally, on Friday it's time for your final presentation.
+  You will present your projects to the staff and other students.
   Remember to dress at least one degree nicer than normal.
-
-- **2:00 p.m.** - **Hackshow: UX Final Presentations**
-  The UX students are also having their final presentations on the same day.
-  All of us are expected to support them!
-
-- **5:00 p.m.** - **Graduation**
-  Both you and the UX students will have an Ironhack graduation ceremony!
 
 
 Updated Technical Requirements
@@ -73,45 +51,38 @@ Updated Technical Requirements
 
 You app must:
 
-1. **Use Angular** for all of the user-facing parts of your application.
-2. **Use Express** for your **API backend**
-   that your Angular app will communicate with.
-3. **Use Mongoose** for models and database communication.
-4. **Have 3 models _or more_**.
+1. **Use Express** as a foundation.
+2. **Use Mongoose** for models and database communication.
+3. **Have 2 models _or more_**.
    Having one for users is a no-brainer.
-   The other two should represent the main functionality of your app.
-   Don't force it if having a 3rd model doesn't make sense.
-5. **Have validation on its models** with feedback for users
+   The other one(s) should represent the main functionality of your app.
+   Don't force it if having more thant two models doesn't make sense.
+4. **Have validation on its models** with feedback for users
    if their submission is invalid.
-6. **Include sign up, log in & log out functionality**
-   with encrypted passwords (or social logins)
+5. **Include sign up, log in & log out functionality**
+   with encrypted passwords (and/or social logins)
    and authorization (logged in users can do extra things).
-7. **Have _two_ repos on GitHub**.
-   One for your Angular application and the other for your Express API backend.
+6. **Have routes for all of CRUD** for models other than users.
+   There should create, read, update and delete features
+   even if they aren't all for the same model.
+7. **Have a repo on GitHub**.
 8. Have at least **1 commit per day** that you worked on it.
 9. **Be deployed online** using Heroku, so anybody could use your app.
-10. **Be connected to your free .co domain**.
-    Ironhack will send you an email with your promo code
-    and instructions on how to redeem it for your free .co domain.
 
 Responsive design **is not a requirement**. <br>
-Wireframes **are not a requirement**. <br>
-Full CRUD **is not a requirement**.
+Wireframes **are not a requirement**.
 
 
 Updated Deliverables
 --------------------
 
-- A **working MEAN stack application, built by you** that runs on a server.
-- A **deploy of your app** on Heroku with a .co domain.
-- The **two URLs** of your **GitHub repositories** (Angular & Express).
-- The URL of the **live app on your .co domain**.
-- The URL of the **Heroku app**.
+- A **working full-stack application, built by you** that runs on a server.
+- A **deploy of your app** on Heroku.
+- The URL of the **GitHub repository** for your app.
+- The URL of the **live app on the Internet**.
 - The URL of the **slides for your app's presentation**.
-- Your **GitHub repos** should have
-  the **URL of your live app** in the URL section.
-- You must present your app during Project #3 final presentations
-  (last day of Project #3 time).
+- You must present your app during Project #2 final presentations
+  (last day of Project #2 time).
 
 Wireframes **are not a deliverable**. <br>
 User stories **are not a deliverable**.
@@ -120,7 +91,9 @@ User stories **are not a deliverable**.
 Presentations
 -------------
 
-Project #3's presentation will focus more on you again, since you will be presenting to judges.
+Project #2's presentation will focus mostly on your project.
+You **won't** have to talk much about yourself or your background.
+You should still **introduce yourself briefly**.
 
 ### Format ###
 - Talking with Slides: **3 minutes**
@@ -145,41 +118,22 @@ Project #3's presentation will focus more on you again, since you will be presen
   * [Prezi](https://prezi.com/)
   * [Google Slides](https://www.google.com/slides/about/)
 
-
-### Short Presentation Structure ###
-
+### Presentation Structure ###
 1. **Title Slide** (1 slide): your project's name & your name
-2. **About Me** (1-2 slides):
-    * Where are you from?
-    * What are some interesting facts about you? (hobbies, travels, etc.)
-3. **Project Elevator Pitch** (1-2 slides):
-    * What is your project?
-    * How will it work?
-    * Why did you choose it?
-4. **Closing Slide** (1 slide): your project's name, your name & a _"Thank You"_
-5. **Total**: 4-6 slides
-
-
-### Final Presentation Structure ###
-
-1. **Title Slide** (1 slide): your project's name & your name
-2. **About Me** (1-2 slides):
-    * Where are you from?
-    * What are some interesting facts about you? (hobbies, travels, etc.)
-3. **Project Elevator Pitch** (1-2 slides):
+2. **Project Elevator Pitch** (1-2 slides):
     * What is your project?
     * How does it work?
     * Why did you choose it?
-4. **Technical Challenge** (1-2 slides):
+3. **Technical Challenge** (1-2 slides):
     * What was **the most important** technical challenge you faced?
     * How did you overcome that challenge?
-5. **Big Mistake** (1-2 slides):
+4. **Big Mistake** (1-2 slides):
     * What was **the biggest** mistake you made during this project?
     * What did you learn from it?
-6. **Demo Slide** (1 slide): literally says "DEMO"
+5. **Demo Slide** (1 slide): literally says "DEMO"
    with **a link** to your project so you can open it easily
-7. **Closing Slide** (1 slide): your project's name, your name & a _"Thank You"_
-8. **Total**: 7-11 slides
+6. **Closing Slide** (1 slide): your project's name, your name & a _"Thank You"_
+7. **Total**: 6-9 slides
 
 #### Presentation Structure Notes ####
 - **Don't** include a slide just for the technologies.
@@ -191,9 +145,7 @@ Project #3's presentation will focus more on you again, since you will be presen
   feel free to do so.
   This suggested structure is mostly for people who don't know what to do.
 
-
 ### Demo Tips ###
-
 1. Plan what you are going to demo and **practice it on the live site**.
    That way you won't be surprised if something breaks on the live version.
 2. **Deploy early** so you can squash bugs.
@@ -208,6 +160,7 @@ Project #3's presentation will focus more on you again, since you will be presen
 
 Grading Criteria (same as on platform)
 --------------------------------------
+
 - **Technical Requirements**: Did you deliver a project that met all the technical requirements? Given what the class has covered so far, did you build something that was reasonably complex?
 
 - **Creativity**: Did you added a personal spin or creative element into your project submission? Did you deliver something engaging and playable to the end user?
