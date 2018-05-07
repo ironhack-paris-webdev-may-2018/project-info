@@ -41,6 +41,11 @@ Schedule
   Nizar & Vivian will be available for those who want to come into class
   to work on their projects.
 
+### Saturday - May 12th ###
+- **Optional Project Day** <br>
+  Michael & Arthur will be available for those who want to come into class
+  to work on their projects.
+
 ### Tuesday - May 15th ###
 - **4:00 p.m.** - _Presentation Rehearsal #1_: About You & Your Project <br>
   For your first presentation rehearsal
