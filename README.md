@@ -49,9 +49,8 @@ Schedule
 ### Tuesday - May 15th ###
 - **4:00 p.m.** - _Presentation Rehearsal #1_: About You & Your Project <br>
   For your first presentation rehearsal
-  you should create your initial presentation
-  as a short, 1-2 minute set of slides.
-  Your slides only need to talk about **you and your project idea**. <br>
+  you should create your initial presentation. <br>
+  Your slides need to talk about **you and your project idea**. <br>
   [See Presentation Section](#presentations)
 
 ### Thursday - May 17th ###
