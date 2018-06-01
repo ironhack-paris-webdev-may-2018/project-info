@@ -1,23 +1,34 @@
 Project #1: The Game
 ====================
 
+Table of Contents
+-----------------
+1. [Introduction](#introduction)
+2. [Schedule](#schedule)
+3. [Updated Technical Requirements](#updated-technical-requirements)
+4. [Updated Deliverables](#updated-deliverables)
+5. [Presentations](#presentations)
+    * [General Information](#presentations)
+    * [Final Presentation Structure](#presentation-structure)
+    * [Demo Tips](#demo-tips)
+
+
+Introduction
+------------
 Let's start with something fun for your first project - **a game!**
 
 It's important to make your game exciting and _juicy_!
 For more information about making your game _juicy_,
 [see the lesson about it on the platform](http://learn.ironhack.com/#/learning_unit/3087).
 
+You and the Ironhack staff will also vote for your favorites
+and award three medals: Bronze 🥉, Silver 🥈, and Gold 🥇.
 
-Table of Contents
------------------
-1. [Schedule](#schedule)
-2. [Updated Technical Requirements](#updated-technical-requirements)
-3. [Updated Deliverables](#updated-deliverables)
-4. [Presentations](#presentations)
-    * [General Information](#presentations)
-    * [Final Presentation Structure](#presentation-structure)
-    * [Demo Tips](#demo-tips)
-5. [Grading Criteria](#grading-criteria-same-as-on-platform)
+Here are some examples of past projects:
+- [Duri the Dwarf](https://lucasm-git.github.io/duri-the-dwarf/)
+- [Iron Battle](https://kleemdub.github.io/IronBattleShip/)
+- [Let's RGB](https://sami-az.github.io/lets-RGB/)
+- [Maze Game](https://kucharskap.github.io/maze-game/)
 
 
 Schedule
@@ -37,7 +48,7 @@ Schedule
   but you should make adjustments based on feedback from the previous day. <br>
   [See Demo Tips](#demo-tips)
 
-### Friday - June 14th ###
+### Friday - June 15th ###
 - **16:00h** - **Project #1 Presentations** <br>
   Finally, on Friday it's time for your final presentation.
   You will present your projects to the staff and other students.
@@ -144,23 +155,3 @@ for finding a job after Ironhack.
    If you think it might be a problem, ask to test it beforehand.
 5. If your app is on Heroku, **refresh it before you present**.
    Otherwise there will be a delay on the initial load.
-
-
-Grading Criteria (same as on platform)
---------------------------------------
-
-- **Technical Requirements**: Did you deliver a project that met all the technical requirements? Given what the class has covered so far, did you build something that was reasonably complex?
-
-- **Creativity**: Did you added a personal spin or creative element into your project submission? Did you deliver something engaging and playable to the end user?
-
-- **Code Quality**: Did you follow code style guidance and best practices covered in class, such as spacing, modularity, and semantic naming?
-
-- **Deployment**: Did you deploy your application to a public URL using GitHub Pages?
-
-- **Total**: Your instructors will give you a total score on your project between:
-
-Score | Expectations
------ | ------------
-**0** | Does not meet expectations.
-**1** | Meets expectations. Good job!
-**2** | Exceeds expectations, you wonderful creature, you!
