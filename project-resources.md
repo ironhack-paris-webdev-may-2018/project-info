@@ -8,6 +8,10 @@ Free Media
 - [Pexels Videos](https://videos.pexels.com/) - Stock videos
 - [Burst](https://burst.shopify.com/) - More stock images
 
+### Games ###
+- [OpenGameArt.org](https://opengameart.org/) - Free game assets (sound, sprites, etc.)
+- [itch.io](https://itch.io/game-assets/free) - More free game assets
+
 
 Free Templates
 --------------
