@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>The fifth element</title>
+  <link rel="stylesheet" href="stylesheets/main.css">
+</head>
+<body>
+    <h1> The 5th element challenge</h1>
+
+    <canvas id="gameboard" width="800" height="800">
+        <p> Vous êtes dans votre canvas 800 x 800</p>
+    </canvas>
+
+
+  
+</body>
+
+<!--- insert the javascript to link to the canvas tag-->
+<script> 
+    console.log ("Hello!")
+    var canvas=document.getElementById("gameboard");
+    var ctx = canvas.getContext( '2d');
+    
+ // Player constructor and methods
+    var xPlayerInit = 10;
+    var yPlayerInit = 390;
+    var widthPlayerInit = 60;
+    var heightPlayerInit = 20;
+    
+  
+     function Player (x, y, width, height) {
+        this.x = x;
+        this.y = y;
+        this.width = width;
+        this.height = height;
+        document.onkeydown = (e) => {
+        switch (e.keyCode) {
+          case 38:
+            this.move(0,-3);
+            break;
+          case 40:
+            this.move(0,3);
+            break;
+          case 37:
+            this.move(-3,0);
+            break;
+          case 39:
+            this.move(3,0);
+            break;
+         }
+       }
+     }
+     
+    Player.prototype.draw = function (x, y, width, height) {
+        ctx.fillStyle ="gold";
+        ctx.fillRect(this.x, this.y, this.width, this.height);
+    }
+    
+    var myPlayer = new Player (xPlayerInit, yPlayerInit, widthPlayerInit, heightPlayerInit);
+    //myPlayer.draw();
+
+    Player.prototype.move = function (dx, dy) {
+        this.x = this.x + dx;
+        this.y = this.y + dy;
+    }
+
+
+       
+   
+
+    // Leelou constructor and methods
+    var xLeelouInit = (widthPlayerInit/2)+xPlayerInit;
+    var yLeelouInit = 50;
+    var radius = widthPlayerInit/4;
+
+    function Leelou (x, y) {
+        this.x = x;
+        this.y = y;
+        this.radius = radius;
+        }
+    
+    Leelou.prototype.draw = function (x,y) {
+        ctx.beginPath();
+        ctx.arc(this.x, this.y, this.radius, 0, Math.PI*2);
+        ctx.fill();
+        ctx.closePath();
+    }
+    
+    var myLeelou = new Leelou (xLeelouInit, yLeelouInit);
+    //myLeelou.draw();
+
+   Leelou.prototype.move = function () {
+        this.x = this.x;
+        this.y = this.y + 10;
+    }
+
+
+    // Leelou falling   
+    setInterval (function () {
+        ctx.clearRect(0, 0, 800,800);
+        //myPlayer.move(1,1);
+        myPlayer.draw();
+        myLeelou.move(0,0);
+        myLeelou.draw();
+        },500); 
+
+        
+    
+ </script>   
+
+
+</html>
+
+
+
