@@ -34,11 +34,18 @@ Here are some examples of past projects:
 Schedule
 --------
 
+### Monday - June 12th ###
+- **Coding Kata** - [Sort a 2D array](https://www.codewars.com/kata/sort-a-2d-array)
+
 ### Tuesday - June 12th ###
+- **Coding Kata** - [Number of anagrams](https://www.codewars.com/kata/number-of-anagrams-in-an-array-of-words)
 - **16:00h** - _Presentation Rehearsal #1_: About You & Your Project <br>
   For your first presentation rehearsal
   you should create your initial presentation structure. <br>
   [See Presentation Section](#presentations)
+
+### Wednesday - June 13th ###
+- **Coding Kata** - [TGI Friday!!](https://www.codewars.com/kata/tgi-friday)
 
 ### Thursday - June 14th ###
 - **16:00h** - _Presentation Rehearsal #2_: Demo <br>
@@ -53,6 +60,9 @@ Schedule
   Finally, on Friday it's time for your final presentation.
   You will present your projects to the staff and other students.
   Remember to dress at least one degree nicer than normal.
+
+### Bonus Kata ###
+- [Clocky Mc Clock-Face](https://www.codewars.com/kata/clocky-mc-clock-face)
 
 
 Updated Technical Requirements
