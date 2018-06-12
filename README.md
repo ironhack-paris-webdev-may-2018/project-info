@@ -9,7 +9,7 @@ Table of Contents
 4. [Updated Deliverables](#updated-deliverables)
 5. [Presentations](#presentations)
     * [General Information](#presentations)
-    * [Final Presentation Structure](#presentation-structure)
+    * [Presentation Structure](#presentation-structure)
     * [Demo Tips](#demo-tips)
 
 
@@ -53,6 +53,7 @@ Schedule
 
 ### Thursday - June 14th ###
 - **11:00h** - _Reinforcement Lesson #5_: Git & GitHub
+- **13:30h** - _Career Services Talk_
 - **16:00h** - _Presentation Rehearsal #2_: Demo <br>
   For the second presentation rehearsal
   you should incorporate a demo of your live game at the end of your talk.
