@@ -52,6 +52,7 @@ Schedule
 - **18:00h** - _Reinforcement Lesson #4_: DOM
 
 ### Thursday - June 14th ###
+- **11:00h** - _Reinforcement Lesson #5_: Git & GitHub
 - **16:00h** - _Presentation Rehearsal #2_: Demo <br>
   For the second presentation rehearsal
   you should incorporate a demo of your live game at the end of your talk.
