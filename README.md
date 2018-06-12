@@ -39,6 +39,7 @@ Schedule
 
 ### Tuesday - June 12th ###
 - **Coding Kata** - [Number of anagrams](https://www.codewars.com/kata/number-of-anagrams-in-an-array-of-words)
+- **13:00h** - _Reinforcement Lesson #1_: Constructor Functions
 - **16:00h** - _Presentation Rehearsal #1_: About You & Your Project <br>
   For your first presentation rehearsal
   you should create your initial presentation structure. <br>
@@ -46,6 +47,9 @@ Schedule
 
 ### Wednesday - June 13th ###
 - **Coding Kata** - [TGI Friday!!](https://www.codewars.com/kata/tgi-friday)
+- **8:30h** - _Reinforcement Lesson #2_: Topic to be determined
+- **13:00h** - _Reinforcement Lesson #3_: Canvas
+- **18:00h** - _Reinforcement Lesson #4_: DOM
 
 ### Thursday - June 14th ###
 - **16:00h** - _Presentation Rehearsal #2_: Demo <br>
