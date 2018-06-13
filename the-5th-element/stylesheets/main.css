@@ -1,18 +1,66 @@
+#gameboard {
+  background-color: rgba(43, 92, 109,0.8);
+  width: 800px;
+  height: 800px;
+}
+
+#mainContainer {
+  display : flex;
+  justify-content:space-around;
+  align-items: center;
+  font-family: 'Krona One', sans-serif;
+}
+
+#leftContainer {
+  display : flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 800px;
+  height: 500px;
+  }
+
+#actionContainer {
+  display: flex;
+  justify-content: space-around;
+}
+
+.gamescreen {
+  text-align: center;
+  background-image: url("http://digitaldomain.com/wp-content/uploads/2015/10/The_Fifth_Element_02.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  }
+
+.title {
+  height: 300px;  
+}  
+
+a.button {
+  display:block;
+  color: rgb(247, 212, 15);
+  font-weight: bold;
+  font-size: 3em;
+  text-decoration:none;
+ }
 
 body {
-  background-color: rgb(196, 176, 222);
-}
+    /*background-color: rgb(196, 176, 222);*/
+}    
 
 h1 {
   color: white;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  font-size: 2em;
-}
+  font-family: 'Krona One', sans-serif;
+  font-size: 3em;
+  }
 
-#gameboard {
-  background-color: deepskyblue;
-}
-
+h2 {
+  color: white;
+  font-family: 'Krona One', sans-serif;
+  font-size: 1.5em;
+  padding: 10px 20px;
+    }
+  
 p {
   background-color: white;
 }

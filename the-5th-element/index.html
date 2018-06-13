@@ -6,21 +6,45 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>The fifth element</title>
   <link rel="stylesheet" href="stylesheets/main.css">
+  <link href="https://fonts.googleapis.com/css?family=Krona+One" rel="stylesheet">
 </head>
 <body>
-    <h1> The 5th element challenge</h1>
-
-    <canvas id="gameboard" width="800" height="800">
-        <p> Vous êtes dans votre canvas 800 x 800</p>
-    </canvas>
-
-
+    <div id="mainContainer" class="gamescreen"> 
+        <div id="leftContainer"> 
+            <div class="title">
+                <h1> The 5th element challenge</h1>
+                <h2> Trying to escape from her pursuers, Leelou, the so-called "5th&nbsp;Element",
+                    fell into the void. Catch her and drive her to a safe place through the secret gate. </h2>
+            </div>
+             <div id="actionContainer">
+                 <div class="on-off">
+                    <a href="#" class="button">
+                        <span id="start"> Start </span>
+                    </a>
+                </div>
+                <div class="on-off">
+                    <a href="#" class="button">
+                        <span id="stop"> Stop </span>
+                    </a>
+                </div>
+             </div>
+        </div> 
+        <div id="rightContainer">    
+            <canvas id="gameboard" width="800" height="800">
+                <p>  </p>
+            </canvas>
+        </div>     
+    </div>  
   
 </body>
 
 <!--- insert the javascript to link to the canvas tag-->
 <script> 
     console.log ("Hello!")
+    var startButton=document.getElementById("start");
+    start.onclick = restart();
+
+
     var canvas=document.getElementById("gameboard");
     var ctx = canvas.getContext( '2d');
     
@@ -63,9 +87,26 @@
     //myPlayer.draw();
 
     Player.prototype.move = function (dx, dy) {
-        this.x = this.x + dx;
-        this.y = this.y + dy;
-    }
+        if (this.x > 780) {
+            win();
+            restart();
+        } else if ((this.y < this.height && dy < 0) || (this.y > (790-this.height) && dy > 0)) {
+            this.y = this.y;
+            
+        } else if (this.x < 5 && dx < 0) {
+           this.x = this.x;
+
+        } else if ( (this.x > (795-this.width) && dx > 0) && (this.y < 350 ) ) {
+            this.x = this.x;     
+          
+        } else if ( (this.x > (795-this.width) && dx > 0) && (this.y > 450) ) {
+            this.x = this.x;  
+
+        } else {
+         this.x = this.x + dx;
+         this.y = this.y + dy;
+        }
+    };
 
     // var result = xPlayerInit + (widthPlayerInit/2);
     // console.log(result);
@@ -93,6 +134,7 @@
  
    Leelou.prototype.move = function () {
        if (this.y > 800-myLeelou.height) {
+           fail();
            restart();          
        } else if 
             (this.x + this.width > myPlayer.x &&
@@ -114,12 +156,21 @@
         myPlayer.draw();
         myLeelou.move(0,0);
         myLeelou.draw();
-      
-        },100); 
+    },100); 
+
+    // fail function
+    function fail() {
+        alert ("Leelou died, mission failed")
+    }
+
+    // win function
+    function win() {
+        alert ("Leelou is safe, mission complete!")
+    }
 
     // restart function
     function restart() {
-        alert("Mission failed");
+        alert("Play again?");
            myLeelou = new Leelou (xLeelouInit, yLeelouInit, widthLeelouInit, heightLeelouInit);
            myPlayer = new Player (xPlayerInit, yPlayerInit, widthPlayerInit, heightPlayerInit);
     };
