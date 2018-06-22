@@ -33,7 +33,6 @@ Here are some examples of past projects:
 
 Schedule
 --------
-
 ### Monday - June 12th ###
 - **Coding Kata** - [Sort a 2D array](https://www.codewars.com/kata/sort-a-2d-array)
 
@@ -73,7 +72,6 @@ Schedule
 
 Updated Technical Requirements
 ------------------------------
-
 You app must:
 
 1. **Render a game in the browser**.
@@ -89,7 +87,6 @@ You app must:
 
 Updated Deliverables
 --------------------
-
 - A **working game, built by you** that runs in the browser.
 - A **deploy of your game** in GitHub Pages.
 - The URL of the **GitHub repository** for your game.
@@ -101,7 +98,6 @@ Updated Deliverables
 
 Presentations
 -------------
-
 For each of the 3 projects you make at Ironhack,
 you will also have to make a presentation about it.
 Communication (including public speaking) is an important skill to practice

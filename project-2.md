@@ -1,54 +1,73 @@
 Project #2: Full-stack Web Application
 ======================================
 
+Table of Contents
+-----------------
+1. [Introduction](#introduction)
+2. [Schedule](#schedule)
+3. [Updated Technical Requirements](#updated-technical-requirements)
+4. [Updated Deliverables](#updated-deliverables)
+5. [Presentations](#presentations)
+    * [General Information](#presentations)
+    * [Presentation Structure](#presentation-structure)
+    * [Demo Tips](#demo-tips)
+
+
+Introduction
+------------
 Now that you are more familiar with the backend,
 you can make a complete Web application for your 2nd project.
 
 For this project, you will **do this project in pairs**.
 
+You and the Ironhack staff will also vote for your favorites
+and award three medals: Bronze 🥉, Silver 🥈, and Gold 🥇.
+
+Here are some examples of past projects:
+- [GiftHub](https://ironhack-gifthub.herokuapp.com/)
+- [What the Q](https://what-the-q.herokuapp.com/)
+- [Unbounded](https://unbounded.herokuapp.com/)
+- [Read Me If You Can](https://read-me-if-you-can.herokuapp.com/)
+
 Looking for Project #1? See the [Project #1 document](project-1.md).
-
-
-Table of Contents
------------------
-1. [Schedule](#schedule)
-2. [Updated Technical Requirements](#updated-technical-requirements)
-3. [Updated Deliverables](#updated-deliverables)
-4. [Presentations](#presentations)
-    * [General Information](#presentations)
-    * [Presentation Structure](#presentation-structure)
-    * [Demo Tips](#demo-tips)
-5. [Grading Criteria](#grading-criteria-same-as-on-platform)
 
 
 Schedule
 --------
+### Monday - July 2nd ###
+- **Coding Kata** - [Persistent Bugger](https://www.codewars.com/kata/persistent-bugger)
 
-### Tuesday - April 24th ###
-- **5:00 p.m.** - _Presentation Rehearsal #1_: About Your Project <br>
+### Tuesday - July 3rd ###
+- **Coding Kata** - [Find The Missing Letter](https://www.codewars.com/kata/find-the-missing-letter)
+- **16:00h** - _Presentation Rehearsal #1_: About Your Project <br>
   For your first presentation rehearsal
-  you should create your initial presentation structure. <br>
+  you should create your initial presentation structure.
   Your slides only need to talk about **your project idea**. <br>
   [See Presentation Section](#presentations)
 
-### Thursday - April 26th ###
-- **5:00 p.m.** - _Presentation Rehearsal #2_: Demo <br>
+### Wednesday - July 4th ###
+- **Coding Kata** - [Playing With Digits](https://www.codewars.com/kata/playing-with-digits)
+
+### Thursday - July 5th ###
+- **16:00h** - _Presentation Rehearsal #2_: Demo <br>
   For the second presentation rehearsal
-  you should incorporate a demo of your live application at the end of your talk.
+  you should incorporate a demo of your live game at the end of your talk.
   Your presentation structure should be more or less the same,
   but you should make adjustments based on feedback from the previous day. <br>
   [See Demo Tips](#demo-tips)
 
-### Friday - April 27th ###
-- **4:00 p.m.** - **Project #2 Presentations** <br>
+### Friday - July 6th ###
+- **16:00h** - **Project #2 Presentations** <br>
   Finally, on Friday it's time for your final presentation.
   You will present your projects to the staff and other students.
   Remember to dress at least one degree nicer than normal.
 
+### Bonus Kata ###
+- [Street Fighter 2 - Character Selection](https://www.codewars.com/kata/street-fighter-2-character-selection)
+
 
 Updated Technical Requirements
 ------------------------------
-
 You app must:
 
 1. **Use Express** as a foundation.
@@ -69,13 +88,11 @@ You app must:
 8. Have at least **1 commit per day** that you worked on it.
 9. **Be deployed online** using Heroku, so anybody could use your app.
 
-Responsive design **is not a requirement**. <br>
-Wireframes **are not a requirement**.
+Responsive design **is not a requirement**.
 
 
 Updated Deliverables
 --------------------
-
 - A **working full-stack application, built by you** that runs on a server.
 - A **deploy of your app** on Heroku.
 - The URL of the **GitHub repository** for your app.
@@ -90,10 +107,9 @@ User stories **are not a deliverable**.
 
 Presentations
 -------------
-
 Project #2's presentation will focus mostly on your project.
-You **won't** have to talk much about yourself or your background.
-You should still **introduce yourself briefly**.
+You **won't** have to talk much about yourselves or your background.
+You should still **introduce yourselves briefly**.
 
 ### Format ###
 - Talking with Slides: **3 minutes**
@@ -156,23 +172,3 @@ You should still **introduce yourself briefly**.
    If you think it might be a problem, ask to test it beforehand.
 5. If you app is on Heroku, **refresh it before you present**.
    Otherwise there will be a delay on the initial load.
-
-
-Grading Criteria (same as on platform)
---------------------------------------
-
-- **Technical Requirements**: Did you deliver a project that met all the technical requirements? Given what the class has covered so far, did you build something that was reasonably complex?
-
-- **Creativity**: Did you added a personal spin or creative element into your project submission? Did you deliver something engaging and playable to the end user?
-
-- **Code Quality**: Did you follow code style guidance and best practices covered in class, such as spacing, modularity, and semantic naming?
-
-- **Deployment**: Did you deploy your application to a public URL using GitHub Pages?
-
-- **Total**: Your instructors will give you a total score on your project between:
-
-Score | Expectations
------ | ------------
-**0** | Does not meet expectations.
-**1** | Meets expectations. Good job!
-**2** | Exceeds expectations, you wonderful creature, you!
