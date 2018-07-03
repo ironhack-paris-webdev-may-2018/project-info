@@ -59,10 +59,11 @@ Schedule
   [See Demo Tips](#demo-tips)
 
 ### Friday - July 6th ###
-- **16:00h** - **Project #2 Presentations** <br>
+- **14:30h** - **Project #2 Presentations** <br>
   Finally, on Friday it's time for your final presentation.
   You will present your projects to the staff and other students.
   Remember to dress at least one degree nicer than normal.
+- **16:00h** - **France vs. Uruguay** ⚽️
 
 ### Bonus Katas ###
 - [Find The Missing Letter](https://www.codewars.com/kata/find-the-missing-letter)
