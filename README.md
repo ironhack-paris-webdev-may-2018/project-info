@@ -38,7 +38,6 @@ Schedule
 - **Coding Kata** - [Persistent Bugger](https://www.codewars.com/kata/persistent-bugger)
 
 ### Tuesday - July 3rd ###
-- **Coding Kata** - [Find The Missing Letter](https://www.codewars.com/kata/find-the-missing-letter)
 - **16:00h** - _Presentation Rehearsal #1_: About Your Project <br>
   For your first presentation rehearsal
   you should create your initial presentation structure.
@@ -46,9 +45,12 @@ Schedule
   [See Presentation Section](#presentations)
 
 ### Wednesday - July 4th ###
-- **Coding Kata** - [Playing With Digits](https://www.codewars.com/kata/playing-with-digits)
+- **11:00h** - _Lesson_: Google Maps (optional)
+- **17:00h** - _Lesson_: File Uploads (optional)
+- **16:00h** - _Lesson_: Automated Emails (optional)
 
 ### Thursday - July 5th ###
+- **11:00h** - _Lesson_: Deploying Your Backend App
 - **16:00h** - _Presentation Rehearsal #2_: Demo <br>
   For the second presentation rehearsal
   you should incorporate a demo of your live game at the end of your talk.
@@ -62,7 +64,9 @@ Schedule
   You will present your projects to the staff and other students.
   Remember to dress at least one degree nicer than normal.
 
-### Bonus Kata ###
+### Bonus Katas ###
+- [Find The Missing Letter](https://www.codewars.com/kata/find-the-missing-letter)
+- [Playing With Digits](https://www.codewars.com/kata/playing-with-digits)
 - [Street Fighter 2 - Character Selection](https://www.codewars.com/kata/street-fighter-2-character-selection)
 
 
