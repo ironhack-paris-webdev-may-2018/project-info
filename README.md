@@ -46,8 +46,8 @@ Schedule
 
 ### Wednesday - July 4th ###
 - **11:00h** - _Lesson_: Google Maps (optional)
-- **17:00h** - _Lesson_: File Uploads (optional)
-- **16:00h** - _Lesson_: Automated Emails (optional)
+- **16:00h** - _Lesson_: File Uploads (optional)
+- **17:00h** - _Lesson_: Automated Emails (optional)
 
 ### Thursday - July 5th ###
 - **11:00h** - _Lesson_: Deploying Your Backend App
