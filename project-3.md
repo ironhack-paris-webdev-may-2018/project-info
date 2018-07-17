@@ -1,60 +1,76 @@
 Project #3: MEAN Web Application
 ================================
 
+Table of Contents
+-----------------
+1. [Introduction](#introduction)
+2. [Schedule](#schedule)
+3. [Updated Technical Requirements](#updated-technical-requirements)
+4. [Updated Deliverables](#updated-deliverables)
+5. [Presentations](#presentations)
+    * [General Information](#presentations)
+    * [Presentation Structure](#presentation-structure)
+    * [Demo Tips](#demo-tips)
+
+
+Introduction
+------------
 We're almost at the end of the journey.
 In our time together,
 we've looked at tons of different programming concepts and techniques.
-This is where you get to show it all off.
+This is where you get to show it all off!
 
 Your 3rd and final project
 will be a **single-page Web application** using the **MEAN stack**.
 
 For your final projects,
 **you may work individually** or (optionally) **in teams of up to three**.
+Each of you will also receive a promo code for a **free .CO domain** for your apps.
+
+As usual, you and the Ironhack staff will vote for your favorites
+and award three medals: Bronze 🥉, Silver 🥈, and Gold 🥇.
+**Medalists get to present in the Hackshow**, our public event for showcasing students.
+
+Here are some examples of past projects:
+- [My Study Buddy](http://www.my-study-buddy.co/)
+- [Dev Day](https://dev-day33.herokuapp.com/)
+- [Champions in the Arena](http://www.championsinthearena.co/)
+- [E-levate](http://www.e-levate.co/)
 
 Looking for Project #1 or #2? See the [Project #1 document](project-1.md)
 or the [Project #2 document](project-2.md).
 
 
-Table of Contents
------------------
-1. [Schedule](#schedule)
-2. [Updated Technical Requirements](#updated-technical-requirements)
-3. [Updated Deliverables](#updated-deliverables)
-4. [Presentations](#presentations)
-    * [General Information](#presentations)
-    * [Presentation Structure](#presentation-structure)
-    * [Demo Tips](#demo-tips)
-5. [Grading Criteria](#grading-criteria-same-as-on-platform)
-
-
 Schedule
 --------
 
-### Tuesday - May 8th ###
-- **Optional Project Day** <br>
-  Nizar & Vivian will be available for those who want to come into class
-  to work on their projects.
+### Wednesday - July 18th ###
+- **Start of Sprint #1**
+- **Coding Kata** - []()
 
-### Thursday - May 10th ###
-- **Optional Project Day** <br>
-  Nizar & Vivian will be available for those who want to come into class
-  to work on their projects.
+### Thursday - July 19th ###
+- **Nizar Off**
+- **Coding Kata** - []()
 
-### Saturday - May 12th ###
-- **Optional Project Day** <br>
-  Michael & Arthur will be available for those who want to come into class
-  to work on their projects.
+### Friday - July 20th ###
+- **Nizar Off**
+- **Coding Kata** - []()
 
-### Tuesday - May 15th ###
-- **4:00 p.m.** - _Presentation Rehearsal #1_: About You & Your Project <br>
+### Monday - July 23rd ###
+- **Start of Sprint #2**
+
+### Tuesday - July 24th ###
+- **16:00h** - _Presentation Rehearsal #1_: About You & Your Project <br>
   For your first presentation rehearsal
   you should create your initial presentation. <br>
   Your slides need to talk about **you and your project idea**. <br>
   [See Presentation Section](#presentations)
 
-### Thursday - May 17th ###
-- **4:00 p.m.** - _Presentation Rehearsal #2_: Demo <br>
+### Wednesday - July 25th ###
+- **16:00h** - _Lesson_: Deploying Your Angular App
+
+### Thursday - July 26th ###
+- **16:00h** - _Presentation Rehearsal #2_: Demo <br>
   For the second presentation rehearsal
   you should incorporate a demo of your live application at the end of your talk.
   Your presentation structure should be more or less the same,
@@ -62,15 +78,15 @@ Schedule
   [See Demo Tips](#demo-tips)
 
 
-### Friday - May 18th ###
-- **4:00 p.m.** - **Internal Hackshow: WebDev Final Presentations** <br>
+### Friday - July 27th ###
+- **16:00h** - **Internal Hackshow: WebDev Final Presentations** <br>
   Finally, on Friday it's time for your **Ironhack project presentation**.
   You will present your projects to the staff and other students.
   Remember to dress at least one degree nicer than normal.
-  **Winners will present in the Hackshow!**
+  **Medalists will present at the Hackshow!**
 
-### Wednesday - May 23rd ###
-- **6:30 p.m.** - **Hackshow** <br>
+### Monday - July 30th ###
+- **18:30h** - **Hackshow** <br>
   Winners of the Internal Hackshows for WebDev and UX/UI
   will present their projects to the public.
   There will be snacks and drinks!
@@ -78,7 +94,6 @@ Schedule
 
 Updated Technical Requirements
 ------------------------------
-
 You app must:
 
 1. **Use Angular** for all of the user-facing parts of your application.
@@ -109,7 +124,6 @@ Full CRUD **is not a requirement**.
 
 Updated Deliverables
 --------------------
-
 - A **working MEAN stack application, built by you** that runs on a server.
 - A **deploy of your app** on Heroku with a .co domain.
 - The **two URLs** of your **GitHub repositories** (Angular & Express).
@@ -127,8 +141,7 @@ User stories **are not a deliverable**.
 
 Presentations
 -------------
-
-Project #3's presentation will focus more on you again, since you will be presenting to judges.
+Project #3's presentation will focus more on you again, since you may be presenting to the public later.
 
 ### Format ###
 - Talking with Slides: **3 minutes**
@@ -155,7 +168,6 @@ Project #3's presentation will focus more on you again, since you will be presen
 
 
 ### Presentation Structure ###
-
 1. **Title Slide** (1 slide): your project's name & your name
 2. **About Me** (1-2 slides):
     * Where are you from?
@@ -185,9 +197,7 @@ Project #3's presentation will focus more on you again, since you will be presen
   feel free to do so.
   This suggested structure is mostly for people who don't know what to do.
 
-
 ### Demo Tips ###
-
 1. Plan what you are going to demo and **practice it on the live site**.
    That way you won't be surprised if something breaks on the live version.
 2. **Deploy early** so you can squash bugs.
@@ -198,22 +208,3 @@ Project #3's presentation will focus more on you again, since you will be presen
    If you think it might be a problem, ask to test it beforehand.
 5. If you app is on Heroku, **refresh it before you present**.
    Otherwise there will be a delay on the initial load.
-
-
-Grading Criteria (same as on platform)
---------------------------------------
-- **Technical Requirements**: Did you deliver a project that met all the technical requirements? Given what the class has covered so far, did you build something that was reasonably complex?
-
-- **Creativity**: Did you added a personal spin or creative element into your project submission? Did you deliver something engaging and playable to the end user?
-
-- **Code Quality**: Did you follow code style guidance and best practices covered in class, such as spacing, modularity, and semantic naming?
-
-- **Deployment**: Did you deploy your application to a public URL using GitHub Pages?
-
-- **Total**: Your instructors will give you a total score on your project between:
-
-Score | Expectations
------ | ------------
-**0** | Does not meet expectations.
-**1** | Meets expectations. Good job!
-**2** | Exceeds expectations, you wonderful creature, you!
