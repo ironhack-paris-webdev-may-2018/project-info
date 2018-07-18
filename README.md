@@ -45,29 +45,28 @@ Schedule
 --------
 
 ### Wednesday - July 18th ###
-- **Start of Sprint #1**
-- **Coding Kata** - []()
+- **Concept Test**
+- **Paper Prototype Test**
 
 ### Thursday - July 19th ###
 - **Nizar Off**
-- **Coding Kata** - []()
+- **Database Schema Planning**
 
 ### Friday - July 20th ###
 - **Nizar Off**
 - **Coding Kata** - []()
 
 ### Monday - July 23rd ###
+- **16:00h** - _Lesson_: Deploying Your Angular App
 - **Start of Sprint #2**
 
 ### Tuesday - July 24th ###
+- **MVP Test**
 - **16:00h** - _Presentation Rehearsal #1_: About You & Your Project <br>
   For your first presentation rehearsal
   you should create your initial presentation. <br>
   Your slides need to talk about **you and your project idea**. <br>
   [See Presentation Section](#presentations)
-
-### Wednesday - July 25th ###
-- **16:00h** - _Lesson_: Deploying Your Angular App
 
 ### Thursday - July 26th ###
 - **16:00h** - _Presentation Rehearsal #2_: Demo <br>
