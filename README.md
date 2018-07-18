@@ -46,11 +46,11 @@ Schedule
 
 ### Wednesday - July 18th ###
 - Concept Test
-- Paper Prototype Test
+- Database Schema Planning
 
 ### Thursday - July 19th ###
 - Nizar Off
-- Database Schema Planning
+- Paper Prototype Test
 
 ### Friday - July 20th ###
 - Nizar Off
