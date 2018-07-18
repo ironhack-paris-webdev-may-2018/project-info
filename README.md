@@ -45,23 +45,22 @@ Schedule
 --------
 
 ### Wednesday - July 18th ###
-- **Concept Test**
-- **Paper Prototype Test**
+- Concept Test
+- Paper Prototype Test
 
 ### Thursday - July 19th ###
-- **Nizar Off**
-- **Database Schema Planning**
+- Nizar Off
+- Database Schema Planning
 
 ### Friday - July 20th ###
-- **Nizar Off**
-- **Coding Kata** - []()
+- Nizar Off
+- Coding Kata - [Pete the Baker](https://www.codewars.com/kata/pete-the-baker/)
 
 ### Monday - July 23rd ###
 - **16:00h** - _Lesson_: Deploying Your Angular App
-- **Start of Sprint #2**
 
 ### Tuesday - July 24th ###
-- **MVP Test**
+- MVP Test
 - **16:00h** - _Presentation Rehearsal #1_: About You & Your Project <br>
   For your first presentation rehearsal
   you should create your initial presentation. <br>
@@ -89,6 +88,12 @@ Schedule
   Winners of the Internal Hackshows for WebDev and UX/UI
   will present their projects to the public.
   There will be snacks and drinks!
+
+### Bonus Katas ###
+- [All That Is Open Must Be Closed](https://www.codewars.com/kata/all-that-is-open-must-be-closed-dot-dot-dot)
+- [Directions Reduction](https://www.codewars.com/kata/directions-reduction/)
+- [Scramblies](https://www.codewars.com/kata/scramblies/)
+- [Sum of Pairs](https://www.codewars.com/kata/sum-of-pairs/)
 
 
 Updated Technical Requirements
